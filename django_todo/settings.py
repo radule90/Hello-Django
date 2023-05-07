@@ -33,7 +33,7 @@ SECRET_KEY = 'django-insecure-vzrt+#e@+00v+=va2izu2#csxsk(al^-^#a2z_po)8pf-a4^_d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-radule90-hello-django-b1u7netvy0.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['https://django-task-mgr-app.herokuapp.com/']
 
 
 # Application definition
